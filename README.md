@@ -6,6 +6,6 @@
 #### - Une Api pour récuperer les données des cryptomonnaies à un instant donné, pour celà nous avons décidé de choisir l'api de CoinGeko.
 ##### Link : https://www.coingecko.com/en/api#explore-api
 
-#### - Une Api pour récuperer les tweets d'Elon Musk qui mentionne les sujets de la Cryptomonnaie.(Nous avons utilisé un scaper pour récuperer les Tweets d'Elons Musk
-)
+#### - Une Api pour récuperer les tweets d'Elon Musk qui mentionne les sujets de la Cryptomonnaie.
+##### Nous avons utilisé un scaper pour récuperer les Tweets d'Elons Musk
 #### Link:https://github.com/twintproject/twint
