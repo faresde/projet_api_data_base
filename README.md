@@ -6,5 +6,5 @@
 #### - Une Api pour récuperer les données des cryptomonnaies à un instant donné, pour celà nous avons décidé de choisir l'api de CoinGeko.
 ##### Link : https://www.coingecko.com/en/api#explore-api
 
-#### - Une Api pour récuperer l'actualité d'une cryptomonnaie.
+#### - Une Api pour récuperer l'actualité sur la cryptomonnaie.
 #### Link : https://newsapi.org/
