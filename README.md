@@ -1,6 +1,6 @@
 ## Ce projet est réalise par Derridj Fares et Mansour Ka
 
-## Réalisation d'une base de donnée à partir d'APIs:
+## Réalisation d'une base de données à partir d'APIs:
 
 ### Nous avons choisi d'étudier l'ensemble des actualités sur le Cours des crypto-monnaies à partir de différentes sources d'informations sur le web.
 #### Pour celà, nous allons avoir besoin de deux bases de données différentes.
