@@ -10,3 +10,6 @@
 
 #### - Une Api pour récuperer l'actualité sur la cryptomonnaie.
 #### Link : https://newsapi.org/
+
+
+![Schema_BDD](https://user-images.githubusercontent.com/57758790/124604766-8fc74400-de6b-11eb-9f22-9703d70bad3c.png)
