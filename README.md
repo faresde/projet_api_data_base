@@ -16,4 +16,6 @@
 
 #### Nous allons créer une table Assets (Voir le Schéma ci-dessus) qui va comporter un id comme primary key, nom de l'asset (ex bitcoin) et le symbole de l'asset.
 
-#### On poursuit avec la création de la deuxème table qui est daily_asset_info cette table à pour objectif de sauvegarder l'historique de l'asset en daily  (prix,market_cap,rank)
+#### On poursuit avec la création de la deuxème table qui est daily_asset_info cette table à pour objectif de sauvegarder l'historique de l'asset en daily  (prix,market_cap,rank) 
+
+#### La relation entre la table Assets et daily_asset_info est une relation one-to-many et c'est grace a ça que l'on peut tracker la variation du prix market_cap rank en daily. 
