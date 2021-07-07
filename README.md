@@ -24,4 +24,4 @@
 #### Concernant les tables Articles et Publisher, la table Article va comporter à son tour un Id comme primary key car notre article est unique , une date de publication de l'article , une déscription et un titre et une foreign key de de la table publisher pour pouvoir savoir quel publisher est derière l'article.
 
 
-#### La table Publisher quant à elle est la pour réferencer les sources de nos articles.
+#### La table Publisher quant à elle,elle fait office de référecnce pour les sources de nos articles.
