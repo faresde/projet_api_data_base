@@ -27,3 +27,5 @@
 
 
 #### La table Publisher quant à elle,elle fait office de référecnce pour les sources de nos articles.
+
+#### Et en fin on a développé les scripts en Python, pour récuper les données dont nous avons via les deux APIs, pour remplir notre de données.
