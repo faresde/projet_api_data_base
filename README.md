@@ -16,7 +16,8 @@
 
 ![Schema_BDD](https://user-images.githubusercontent.com/57758790/124604766-8fc74400-de6b-11eb-9f22-9703d70bad3c.png)
 
-#### Ainsi, Nous avons créer une table Assets (Voir le Schéma ci-dessus) qui va comporter un id comme primary key, nom de l'asset (ex bitcoin) et le symbole de l'asset.
+#### EXplication de la conception de notre Base de Données:
+##### Nous avons créer une table Assets (Voir le Schéma ci-dessus) qui va comporter un id comme primary key, nom de l'asset (ex bitcoin) et le symbole de l'asset.
 
 #### On poursuit avec la création de la deuxème table qui est daily_asset_info cette table à pour objectif de sauvegarder l'historique de l'asset en daily  (prix,market_cap,rank) 
 
